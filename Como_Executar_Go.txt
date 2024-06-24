@@ -1,0 +1,8 @@
+Salvar o arquivo (Crtl + S)
+
+### Gerar o Executável ###
+>>> go build nome_do_arquivo.go
+
+### Executar o arquivo ###
+>> go run nome_do_arquivo.go
+
