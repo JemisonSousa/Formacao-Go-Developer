@@ -1,8 +1,8 @@
-package Aula8
+package main
 
 import "fmt"
 
-func main(){
+func main() {
 	var y string = "Hello, World!"
 	fmt.Println(y)
 
