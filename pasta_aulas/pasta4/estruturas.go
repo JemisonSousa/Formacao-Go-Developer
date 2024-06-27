@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
+func Mudar_____xxx(){
 	
 	// instrução FOR   <- Considerado o WHILE, pois não há no GO
 	i := 0
@@ -50,18 +50,10 @@ func main(){
 		 if a == 5{
 			fmt.Println("Parei, achei o", a)
 			break
+			// continue
 		 }
 		a++
 	}
 	
-	//  c := 1
-	//  d := 20
-	//  for c <= d {
-	// 	 fmt.Println(c)
-	// 	 if c == 5{
-	// 		fmt.Println("Achei o ", c, "e continuei sem imprimí-lo")
-	// 		continue
-	// 	 }
-	// 	c++
-	//  }
+
 }
