@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main (){
+func mudaxxxxx() {
 
 	var x [5]float64
 	x[0] = 5.3
@@ -12,7 +12,7 @@ func main (){
 	x[4] = 7.8
 
 	var total float64 = 0
-	for i:=0; i < len(x); i++{
+	for i := 0; i < len(x); i++ {
 		total += x[i]
 	}
 
