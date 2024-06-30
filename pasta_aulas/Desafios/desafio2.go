@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
 
+	//PARTE 1
 	/*Desafio:
 	Você e seus colegas querem criar um código
 	que exiba todos os números entre 1 e 100 que
@@ -16,6 +17,7 @@ func main() {
 
 	}
 
+	//PARTE 2
 	/*Você e seus colegas querem criar um formato de código de uma antiga
 	brincadeira: ao se falar os números multiplos de 3, o participante
 	deve falar 'PIN' e nos multiplos de 5 o participante deve falar 'PAN'.
