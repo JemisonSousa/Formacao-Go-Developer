@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func mudar__xs() {
 
 	x := make(map[string]int)
 	x["chave"] = 10
