@@ -48,7 +48,7 @@ func medir(g geometria) {
 	fmt.Println(g.perimetro())
 }
 
-func main() {
+func main_____() {
 	v_q := &quadrado{lado: 10}
 	v_c := &circulo{raio: 5}
 
