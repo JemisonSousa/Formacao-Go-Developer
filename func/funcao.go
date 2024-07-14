@@ -14,7 +14,7 @@ func media(lista []float64) float64 {
 	return media
 }
 
-func main____() {
+func main() {
 	lista := []float64{98, 93, 77, 82, 83}
 	fmt.Println(media(lista))
 }

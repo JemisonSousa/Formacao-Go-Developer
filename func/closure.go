@@ -4,7 +4,7 @@ package main
 
 import "fmt"
 
-func main___() {
+func main() {
 	x := 0
 
 	numero := func() int {
